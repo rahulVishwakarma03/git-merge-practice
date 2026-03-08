@@ -1,3 +1,3 @@
 ## Git Merge
 
-This is to practice git merge.
+This is to practice git merge and git branches.

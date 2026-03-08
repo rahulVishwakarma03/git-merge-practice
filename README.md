@@ -1,3 +1,5 @@
+## Git Merge
+
 Hello,
 
-This is to practice git merge
+This is to practice git merge.
